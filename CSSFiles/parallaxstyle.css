@@ -13,17 +13,17 @@
 }
 .parallaxone h2{
    position:relative;
-    left: 300px;
-    top: 70px;
+    left: 20px;
+    top: 50px;
     width: 220px;
     height:200px;
     padding:0;
     //background-color: rgb(159, 226, 191);
     //background:-o-linear-gradient()
     color:rgb(12, 161, 164);
-    text-align: center;
+    //text-align: center;
     font-family:"Brush Script";
-    font-size:300px;
+    font-size:500px;
 
 }
 .parallaxtwo{
