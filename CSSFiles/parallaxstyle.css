@@ -13,15 +13,15 @@
 }
 .parallaxone h2{
    position:relative;
-    left: 20px;
+    left: 30px;
     top: 50px;
-    width: 220px;
+    width: 200px;
     height:200px;
     padding:0;
     //background-color: rgb(159, 226, 191);
     //background:-o-linear-gradient()
     //color:rgb (12, 161, 164);
-    //text-color: rgb (12, 161, 164);;
+    text-color: rgb (12, 161, 164);;
     font-family:"Brush Script";
     font-size:20px;
 
