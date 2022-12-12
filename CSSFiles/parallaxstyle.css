@@ -18,7 +18,7 @@
     width: 200px;
     height:35px;
     padding:20px;
-    background-color: rgba(200, 69, 26, 0.607);
+    background-color: rgba(247, 220, 111);
     background:-o-linear-gradient()
     color:rgb(12, 161, 164);
     text-align: center;
@@ -34,13 +34,14 @@
     background-repeat: no-repeat;
 }
 .parallaxtwo h2{
+    font-family: "Lucida Console", "Courier New", monospace;
     position:relative;
     left: 600px;
     top: 300px;
     width: 200px;
     height:35px;
     padding:20px;
-    background-color: rgba(200, 69, 26, 0.607);
+    background-color: rgba(171, 235, 198 );
     background:-o-linear-gradient()
     color:rgb(12, 161, 164);
     text-align: center;
@@ -56,13 +57,14 @@
     background-repeat: no-repeat;
 }
 .parallaxthree h2{
+    font-family: "Lucida Console", "Courier New", monospace;
     position:relative;
     left: 600px;
     top: 300px;
     width: 200px;
     height:35px;
     padding:20px;
-    background-color: rgba(200, 69, 26, 0.607);
+    background-color: rgba (133, 193, 233 );
     background:-o-linear-gradient()
     color:rgb(12, 161, 164);
     text-align: center;
