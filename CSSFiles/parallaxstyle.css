@@ -74,7 +74,7 @@
     padding:50px;
     text-align:center;
     height: 100px;
-    background-color: rgba (133, 193, 233 );
-    color:RGB(243, 156, 18)  ;
+    background-color: rgb (133, 193, 233 );
+    color:rg(243, 156, 18)  ;
     font-size: 20px;
 }
