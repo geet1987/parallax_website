@@ -18,7 +18,7 @@
     width: 200px;
     height:35px;
     padding:20px;
-    background-color: rgba(159, 226, 191);
+    background-color: rgb(159, 226, 191);
     background:-o-linear-gradient()
     color:rgb(12, 161, 164);
     text-align: center;
@@ -41,7 +41,7 @@
     width: 200px;
     height:35px;
     padding:20px;
-    background-color: rgba(171, 235, 198 );
+    background-color: rgb(195, 155, 211  );
     background:-o-linear-gradient()
     color:rgb(12, 161, 164);
     text-align: center;
