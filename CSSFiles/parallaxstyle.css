@@ -12,7 +12,7 @@
     background-repeat: no-repeat;
 }
 .parallaxone h2{
-    position:relative;
+    position:left;
     left: 600px;
     top: 300px;
     width: 200px;
@@ -22,6 +22,7 @@
     background:-o-linear-gradient()
     color:rgb(12, 161, 164);
     text-align: center;
+    font-style:Brush Script;
 
 }
 .parallaxtwo{
