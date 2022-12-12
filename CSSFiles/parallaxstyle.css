@@ -4,7 +4,7 @@
 }
 .parallaxone{
     width:100%;
-    color:  #AED6F1;
+    color:litepink;
     height:600px;
     background-image: url('/parallaximages/cake2coffe.jpg');
     background-size: cover;
@@ -26,7 +26,7 @@
 }
 .parallaxtwo{
     width:100%;
-    color: aqua;
+    color: #CCCCFF;
     height:600px;
     background-image: url('/parallaximages/strawberyCake.jpg');
     background-size: cover;
@@ -49,7 +49,7 @@
 }
 .parallaxthree{
     width:100%;
-    color: aqua;
+    color:#CCCCFF;
     height:600px;
     background-image: url('/parallaximages/cupcake.jpg');
     background-size: cover;
