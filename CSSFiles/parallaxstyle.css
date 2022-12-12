@@ -12,9 +12,9 @@
     background-repeat: no-repeat;
 }
 .parallaxone h2{
-    position:left;
-    left: 600px;
-    top: 300px;
+   position:relative;
+    left: 200px;
+    top: 30px;
     width: 200px;
     height:35px;
     padding:20px;
