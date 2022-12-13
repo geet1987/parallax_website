@@ -31,7 +31,7 @@
 }
 .parallaxtwo{
     width:100%;
-    color: #F58CA3;
+    background-color: #F58CA3;
     height:600px;
     background-image: url('/parallaximages/strawberyCake.jpg');
     background-size: cover;
@@ -80,6 +80,6 @@
     text-align:center;
     height: 100px;
     background-color:"silver";
-    color:rgb (243, 156, 18)  ;
+    color:#874B40;
     font-size: 20px;
 }
