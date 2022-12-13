@@ -32,7 +32,7 @@
 }
 .parallaxtwo{
     width:100%;
-    color: #F58CA3;
+    color:#F5BAD4;
     height:600px;
     background-image: url('/parallaximages/strawberyCake.jpg');
     background-size: cover;
@@ -56,7 +56,7 @@
 }
 .parallaxthree{
     width:100%;
-    color:#CCCCFF;
+    color:#F5BAD4;
     height:600px;
     background-image: url('/parallaximages/cupcake.jpg');
     background-size: cover;
@@ -71,9 +71,9 @@
     width: 200px;
     height:35px;
     padding:20px;
-    background-color: #EDD5F5;
+    //background-color: #EDD5F5;
     background:-o-linear-gradient()
-    color:rgb(12, 161, 164);
+    color:#06FFF4;
     text-align: center;
 
 }
