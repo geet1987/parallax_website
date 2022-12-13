@@ -12,18 +12,20 @@
     background-repeat: no-repeat;
 }
 .parallaxone h2{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-indent:30px;
    position:relative;
-    left: 30px;
+    //left: 30px;
     top: 50px;
-    width: 200px;
-    height:200px;
+   // width: 200px;
+    //height:200px;
     padding:0;
     //background-color: rgb(159, 226, 191);
     //background:-o-linear-gradient()
     //color:rgb (12, 161, 164);
-     font-color: "maroon";
-    font-family:"Brush Script";
-    font-size:120px;
+     color: #805719;
+
+    font-weight:120;
 
 }
 .parallaxtwo{
