@@ -85,11 +85,11 @@
    // background-color:#C3F6DA;
     color:#874B40;
     font-size: 20px;
-     background-color: red;
+     background-color: #F5A3C3;
   animation-name: example;
   animation-duration: 4s;
 }
 @keyframes example {
-  from {background-color: red;}
-  to {background-color: yellow;}
+  from {background-color:  #F5A3C3;}
+  to {background-color: #F59520;}
 }
